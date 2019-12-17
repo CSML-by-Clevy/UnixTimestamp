@@ -1,8 +1,9 @@
 # UNIXTIMESTAMP Lambda Function
 
 ## Compress
-```$ cd src```
-```$ zip -r9 ../unixtimestamp.zip index.py```
+`$ cd src`
+
+`$ zip -r9 ../unixtimestamp.zip index.py`
 
 ## Use on CSML Studio
 - Create a new function
